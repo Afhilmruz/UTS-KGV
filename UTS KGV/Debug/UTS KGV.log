@@ -1,0 +1,42 @@
+﻿  UTS KGV.cpp
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(20,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(25,5): warning C4551: function call missing argument list
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(282,60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(283,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(284,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(285,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(286,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(287,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(297,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(297,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(298,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(298,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(299,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(299,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(300,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(300,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(305,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(305,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(306,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(306,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(307,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(307,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(308,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(308,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(313,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(313,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(314,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(314,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(315,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(315,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(317,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(317,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(321,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(321,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(325,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(325,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(329,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(329,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(333,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MSi-PC\source\repos\UTS KGV\UTS KGV.cpp(333,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  UTS KGV.vcxproj -> C:\Users\MSi-PC\source\repos\UTS KGV\Debug\UTS KGV.exe
